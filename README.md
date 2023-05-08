@@ -4,6 +4,13 @@
   <p>My pronouns are She/Her. I am a Software Engineer based in Austin, Texas and I am open for work!</p>
   <p>You can reach me at <a href="https://www.linkedin.com/in/kaityhayes/">LinkedIn</a></p>
 
+  <p><strong>A little about me:</strong></p>
+  <p>Scorpio</p>
+  <p>Native Texan, PNW lover </p>
+  <p>Lazy leisure sailor</p>
+  <p>Vintage thrifter</p>
+  <p>Music lover</p>
+
   <p><strong>What I'm currently up to:</strong></p>
   <p>🌱 I'm currently learning Tailwind CSS and React Native</p>
   <p>🌟 I plan on learning: Ruby on Rails</p>
