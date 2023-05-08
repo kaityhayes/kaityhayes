@@ -1,17 +1,22 @@
 <div align="center">
 Hi there, I'm Kaity! 👋
-Kaity Hayes banner
+![Kaity Hayes banner](https://i.imgur.com/hrKsNlnm.png)
 
 My pronouns are She/Her. I am a Software Engineer based in Austin, Texas and I am open for work!
 
-You can reach me at LinkedIn
+You can reach me at [LinkedIn](https://www.linkedin.com/in/kaityhayes/)
+  
 
 What I'm currently up to:
 🌱 I'm currently learning Tailwind CSS and React Native
 🌟 I plan on learning: Ruby on Rails
+  
+  
 Projects:
 🌿 I am currently working on My Portfolio
 🦇 I just finished Bat City Productions
+  
+  
 Languages and Tools:
 <p align="center">
   <img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" />
