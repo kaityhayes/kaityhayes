@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://i.imgur.com/0MpCt7j.png" alt="Keep Growing baner">
   <p><strong>Hi there, I'm Kaity! 👋</strong></p>
+![image title](https://rushter.com/counter.svg)
   <img src="https://i.imgur.com/hrKsNlnm.png" alt="Kaity Hayes banner">
   <p>My pronouns are She/Her. I am a Software Engineer based in Austin, Texas and I am open for work!</p>
   <p>You can reach me at <a href="https://www.linkedin.com/in/kaityhayes/">LinkedIn</a></p>
