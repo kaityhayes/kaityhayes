@@ -33,6 +33,7 @@ You can reach me at [LinkedIn](https://www.linkedin.com/in/kaityhayes/)
 - :postbox: Postman
 - :snake: Python
 - :atom_symbol: React
+-👩🏻‍💻 SQL
 
 
 </div>
