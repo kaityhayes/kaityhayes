@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Kaity and my pronounds are She/Her
+I am a Software Engineer based in Austin, Texas.
+I am open for work!
+
+You can reach me at <a href="[
+](https://www.linkedin.com/in/kaityhayes/)" LinkedIn/>
+
+
 
 <!--
 **kaityhayes/kaityhayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
