@@ -1,4 +1,5 @@
 ### Hi there 👋  
+[Imgur](https://i.imgur.com/hrKsNln.png)
 My name is Kaity and my pronouns are She/Her  
 I am a Software Engineer based in Austin, Texas.  
 I am open for work!  
