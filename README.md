@@ -6,7 +6,7 @@
 
   <p><strong>A little about me:</strong></p>
   <p>Scorpio</p>
-  <p>Native Texan, PNW lover </p>
+  <p>Native Texan, PNW xenophile</p>
   <p>Lazy leisure sailor</p>
   <p>Vintage thrifter</p>
   <p>Music lover</p>
