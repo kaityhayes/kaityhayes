@@ -1,18 +1,18 @@
 <div align="center">
-  <p>Hi there, I'm Kaity! 👋</p>
+  <p><strong>Hi there, I'm Kaity! 👋</strong></p>
   <img src="https://i.imgur.com/hrKsNlnm.png" alt="Kaity Hayes banner">
   <p>My pronouns are She/Her. I am a Software Engineer based in Austin, Texas and I am open for work!</p>
   <p>You can reach me at <a href="https://www.linkedin.com/in/kaityhayes/">LinkedIn</a></p>
 
-  <p>What I'm currently up to:</p>
+  <p><strong>What I'm currently up to:</strong></p>
   <p>🌱 I'm currently learning Tailwind CSS and React Native</p>
   <p>🌟 I plan on learning: Ruby on Rails</p>
 
-  <p>Projects:</p>
+  <p><strong>Projects:</strong></p>
   <p>🌿 I am currently working on My Portfolio</p>
   <p>🦇 I just finished Bat City Productions</p>
 
-  <p>Languages and Tools:</p>
+  <p><strong>Languages and Tools:</strong></p>
   <p align="center">
     <img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" />
     <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS3" />
