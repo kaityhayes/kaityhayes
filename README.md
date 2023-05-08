@@ -1,7 +1,7 @@
-### Hi there 👋
-My name is Kaity and my pronounds are She/Her
-I am a Software Engineer based in Austin, Texas.
-I am open for work!
+### Hi there 👋  ( )
+My name is Kaity and my pronounds are She/Her  ( )
+I am a Software Engineer based in Austin, Texas.  ( )
+I am open for work!  ( )
 
 You can reach me at [LinkedIn](https://www.linkedin.com/in/kaityhayes/)
 
