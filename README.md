@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://i.imgur.com/0MpCt7j.png" alt="Keep Growing baner">
-                      ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
   <p><strong>Hi there, I'm Kaity! 👋</strong></p>
   <img src="https://i.imgur.com/hrKsNlnm.png" alt="Kaity Hayes banner">
   <p>My pronouns are She/Her. I am a Software Engineer based in Austin, Texas and I am open for work!</p>
