@@ -13,23 +13,23 @@
   <p>🦇 I just finished Bat City Productions</p>
 
   <p><strong>Languages and Tools:</strong></p>
-  <p align="center">
-    <img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" />
-    <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS3" />
-    <img src="https://img.icons8.com/color/50/000000/django.png" alt="Django" />
-    <img src="https://img.icons8.com/color/50/000000/express.png" alt="Express" />
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" />
-    <img src="https://img.icons8.com/color/50/000000/heroku.png" alt="Heroku" />
-    <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML5" />
-    <img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" />
-    <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" />
-    <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" />
-    <img src="https://img.icons8.com/color/50/000000/postgresql.png" alt="PostgreSQL" />
-    <img src="https://img.icons8.com/color/50/000000/postman-api.png" alt="Postman" />
-    <img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" />
-    <img src="https://img.icons8.com/plasticine/50/000000/react.png" alt="React" />
-    <img src="https://img.icons8.com/color/50/000000/sql.png" alt="SQL" />
-  </p>
+  
+   <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" /></a>
+  <a href="https://id.heroku.com/login"><img src="https://img.icons8.com/color/50/000000/heroku.png" alt="Heroku" /></a>
+  <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" /></a>
+  <a href="https://nodejs.org/en"><img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/50/000000/postgresql.png" alt="PostgreSQL" /></a>
+  <a href="https://www.postman.com/"><img src="https://img.icons8.com/color/50/000000/postman-api.png" alt="Postman" /></a>
+  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" /></a>
+  <a href="https://react.dev/"><img src="https://img.icons8.com/plasticine/50/000000/react.png" alt="React" /></a>
+  <a href="https://spring.io/"><img src="https://img.icons8.com/color/50/000000/spring-logo.png" alt="Spring" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.icons8.com/color/50/000000/tailwind-css.png" alt="Tailwind CSS" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/50/000000/django.png" alt="Django" /></a>
+  <a href="https://expressjs.com/"><img src="https://img.icons8.com/color/50/000000/express.png" alt="Express" /></a>
+  <a href="https://github.com/"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" /></a>
 </div>
 
 
