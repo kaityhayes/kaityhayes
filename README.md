@@ -1,10 +1,17 @@
-### Hi there 👋  
-[Imgur](https://i.imgur.com/hrKsNln.png)
-My name is Kaity and my pronouns are She/Her  
+<p align="center">
+
+### Hi there 👋
+
+![Kaity Hayes banner](https://i.imgur.com/hrKsNln.png)
+
+My name is Kaity and my pronouns are She/Her.  
 I am a Software Engineer based in Austin, Texas.  
 I am open for work!  
 
 You can reach me at [LinkedIn](https://www.linkedin.com/in/kaityhayes/)
+
+</p>
+
 
 
 
