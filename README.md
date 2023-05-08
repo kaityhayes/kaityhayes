@@ -1,4 +1,4 @@
-### Hi there 👋  ( )
+### Hi there 👋  (' ')
 My name is Kaity and my pronounds are She/Her  ( )
 I am a Software Engineer based in Austin, Texas.  ( )
 I am open for work!  ( )
