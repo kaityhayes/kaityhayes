@@ -16,8 +16,8 @@
   <p>🌟 I plan on learning: Ruby on Rails</p>
 
   <p><strong>Projects:</strong></p>
-  <p>🌿 I am currently working on My Portfolio</p>
-  <p>🦇 I just finished Bat City Productions</p>
+  <p>🌿 I am currently working on <a href="https://github.com/kaityhayes/kaityhayes-portfolio/">My Portfolio</a></p>
+  <p>🦇 I just finished <a href="https://github.com/kaityhayes/batcity-front/">Bat City Productions</a></p>
 
   <p><strong>Languages and Tools:</strong></p>
   
